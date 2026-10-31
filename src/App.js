@@ -344,7 +344,7 @@ function App() {
               {game.winner === "USER"
                 ? "Congratulations! You Won!"
                 : game.winner === "AI"
-                ? "AI Wins This Round!"
+                ? "COMPUTER Wins This Round!"
                 : "It's a Draw!"}
             </h2>
 
